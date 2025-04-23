@@ -28,7 +28,3 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=keammakola&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keammakola&layout=compact&theme=radical)
-
-## 🐍 GitHub Snake
-![GitHub Snake](https://github-readme-stats.vercel.app/api/top-langs/?username=keammakola&layout=compact&theme=radical)
-
