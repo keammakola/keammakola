@@ -18,8 +18,6 @@
 
 ## 🌐 Find me on:
 - **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/keabetswe-mmakola-7615a0334) 
-- **X**: [@kea_codes](https://x.com/kea_codes)
-
 
 ---
 
