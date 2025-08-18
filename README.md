@@ -2,8 +2,8 @@
 
 🎓 I’m a student at **WeThinkCode_**  
 🔬 Aspiring **Data Scientist** with a love for turning raw data into smart decisions  
-🛠️ Currently building: A comprehensive financial management app called **Keia-Finance**              
-📚 Learning Java, Python, SQL, and the art of clean code  
+🛠️ Currently building: A comprehensive financial management app called **MoneyMate**              
+📚 Learning Python, Java, SQL, and the art of clean code  
 🧠 Notion is where I map out my dev life and keep the chaos in check  
 📊 Passionate about building tech that makes a real-world impact  
 💻 Class by day, code by night — sleep’s somewhere in the backlog  
