@@ -12,8 +12,8 @@
 
 ## 🛠️ Skills & Technologies
 - **Languages**: Python, Java
-- **Tools**: Git, GitHub, Notion, Maven, Flask  
-- **Technologies**: Data Science, Machine Learning, Object-Oriented Programming, APIs
+- **Tools**: Git, GitHub, Markdown, Maven, Flask  
+- **Technologies**: Data Science, Machine Learning, Artificial intelligence, Object-Oriented Programming, APIs
 
 
 ## 🌐 Find me on:
