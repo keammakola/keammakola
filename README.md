@@ -2,10 +2,11 @@
 
 🎓 Student at **WeThinkCode_**  
 📊 Aspiring **Data Scientist** turning data into smart decisions  
-💡 Currently building  
+💡 Currently building:
 - **Investa** a financial management app  
 - **Get Hired** a career management platform  
-- **Spaza Mate** a digital tool for local businesses  
+- **Spaza Mate** a digital tool for local businesses
+
 💻 Writing clean code in **Python, Java, SQL, HTML, CSS, Javascript, Django, React**  
 🛠️ Exploring **Flask, Maven,Git, Tensorflow, Docker, APIs and Machine Learning**  
 🚀 Driven to create tech that makes real world impact  
