@@ -1,24 +1,17 @@
 # 👋 Hey there, I'm Keabetswe Mmakola  
 
-🎓 Student at **WeThinkCode_**  
-📊 Aspiring **Data Scientist** turning data into smart decisions  
-💡 Currently building:
+ Student at **WeThinkCode_**  
+ Aspiring **Data Scientist & AI Engineer** turning data into smart decisions  
+ Currently building:
 - **Investa** a financial management app  
-- **Get Hired** a career management platform  
+- **Get Hired** a job application management platform  
 - **Spaza Mate** a digital tool for local businesses
-
-💻 Writing clean code in **Python, Java, SQL, HTML, CSS, Javascript, Django, React**  
-🛠️ Exploring **Flask, Maven,Git, Tensorflow, Docker, APIs and Machine Learning**  
-🚀 Driven to create tech that makes real world impact  
-
----
-
-## 🛠️ Skills and Technologies  
 
 **Languages**: Python, Java, SQL, HTML, CSS, Javascript, Django, React  
 **Frameworks and Tools**: Flask, Maven,Git, Tensorflow, Docker, Markdown, APIs and Machine Learning 
 **Domains**: Data Science, Machine Learning, Artificial Intelligence, APIs, Object Oriented Programming  
 
+Driven to create tech that makes real world impact  
 ---
 
 ## 🌐 Connect with Me  
