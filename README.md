@@ -1,9 +1,9 @@
 <div align="center">
 
-  # 👋 Hi, I'm Keabetswe Mmakola
+  #  Hi, I'm Keabetswe Mmakola
 
   ###  Data Scientist & Software Engineer
-  *Turning complex data into smart, actionable decisions*
+  *The future is hidden in your data. I find it.*
 
   [![](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/keammakola)
   [![](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:keammakola@gmail.com)
@@ -12,9 +12,9 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-I am a Software Engineer in Johannesburg, South Africa. My passion lies in **Data Science**, **Data Engineering**, **Machine Learning**, and **Artificial Intelligence**. I specialise in building robust data pipelines, developing predictive models, and creating software that makes a tangible real world impact.
+I am a Software Engineer in Johannesburg, South Africa. My passion lies in **Data Science**, **Data Engineering**, **DevOps** and **Artificial Intelligence**. I specialise in building robust data pipelines, developing predictive models, and creating software that makes a tangible real world impact.
 
 ---
 
@@ -27,6 +27,7 @@ I am a Software Engineer in Johannesburg, South Africa. My passion lies in **Dat
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
 
 **Frameworks & Libraries**
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
@@ -41,11 +42,11 @@ I am a Software Engineer in Johannesburg, South Africa. My passion lies in **Dat
 
 ---
 
-### 🚀 Current Projects
+### Current Projects
 
 I am currently building solutions that address local and financial challenges:
 
-* **Investa**
+* **Common Cents**
     A comprehensive financial management application designed to help users track and optimise their personal finances.
 
 * **Get Hired**
@@ -56,9 +57,4 @@ I am currently building solutions that address local and financial challenges:
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=keammakola&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keammakola&layout=compact&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
