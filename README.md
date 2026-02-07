@@ -42,8 +42,7 @@ My mission? To architect **scalable data ecosystems**, deploy **intelligent mode
 
   <br/>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keammakola&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
-
+  [![GitHub Streak](https://streak-stats.demolab.com?user=keammakola&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
   <br/>
 
   [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keammakola&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
