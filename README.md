@@ -72,6 +72,7 @@ My mission? To architect **scalable data ecosystems**, deploy **intelligent mode
 | :--- | :--- |
 | **🎯 Get Hired** | An AI-powered job application assistant that replaces guesswork with data-driven insights, offering recruiter-level CV audits, instant compatibility scoring, and tailored cover letters to help you land your dream role faster and smarter. |
 | **🍕 Zest** | Break free from mealtime boredom with creative discovery. Our tool offers ingredient-based search, smart effort-level tags, and instant visual motivation to replace routine and spark culinary inspiration. |
+| **🔄 SDLC for Dummies** | A comprehensive, accessible, and technical blueprint for the entire Software Development Lifecycle. From Discovery to Decommissioning, "SDLC for dummies" provides the frameworks and deliverables needed to build, ship, and maintain high-quality software. Designed for students, dev teams, and AI |
 
 
 <br/>
