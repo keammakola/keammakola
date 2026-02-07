@@ -39,11 +39,14 @@ My mission? To architect **scalable data ecosystems**, deploy **intelligent mode
 <div align="center">
   <h3>📊 GitHub Stats</h3>
   <br>
-  [![Kea's GitHub stats](https://github-readme-stats.vercel.app/api?username=keammakola&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keammakola&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keammakola&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-  </p>
+
+  <br/>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=keammakola&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
+  <br/>
+
+  [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keammakola&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 </div>
 
 <hr/>
@@ -56,7 +59,7 @@ My mission? To architect **scalable data ecosystems**, deploy **intelligent mode
 
 | **Languages** | **Frameworks** | **DevOps & Tools** |
 |:---:|:---:|:---:|
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) <br> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) <br> ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) <br> ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
 
 </div>
 
@@ -68,12 +71,12 @@ My mission? To architect **scalable data ecosystems**, deploy **intelligent mode
 
 | Project | Description |
 | :--- | :--- |
-| **💸 Common Cents** | A comprehensive financial management application designed to help users track and optimize their personal finances. |
-| **🎯 Get Hired** | A streamlined platform for managing job applications, helping job seekers organize and track their progress. |
-| **🛒 Spaza Mate** | A digital tool tailored for local businesses (Spaza shops) to manage inventory and sales efficiently. |
+| **🎯 Get Hired** | An AI-powered job application assistant that replaces guesswork with data-driven insights, offering recruiter-level CV audits, instant compatibility scoring, and tailored cover letters to help you land your dream role faster and smarter. |
+| **🍕 Zest** | Break free from mealtime boredom with creative discovery. Our tool offers ingredient-based search, smart effort-level tags, and instant visual motivation to replace routine and spark culinary inspiration. |
+
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=keammakola&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </div>
